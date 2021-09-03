@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/ProjetJava/src/application/Main.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_CLASSPATH_ONLY_JAR" value="false"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="application.Main"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="ProjetJava"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ProjetJava"/>
+    <stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="--module-path ..\library_required\javafx-sdk-15.0.1\lib&#13;&#10;--add-modules javafx.controls,javafx.fxml,javafx.base,javafx.graphics&#13;&#10;--add-opens&#13;&#10;javafx.graphics/javafx.css=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.base/com.sun.javafx.runtime=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.controls/com.sun.javafx.scene.control.behavior=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.controls/com.sun.javafx.scene.control=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.base/com.sun.javafx.binding=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.base/com.sun.javafx.event=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.graphics/com.sun.javafx.stage=ALL-UNNAMED&#13;&#10;--add-opens&#13;&#10;javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED&#13;&#10;--add-exports&#13;&#10;javafx.controls/com.sun.javafx.scene.control.behavior=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.controls/com.sun.javafx.scene.control=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.base/com.sun.javafx.binding=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.base/com.sun.javafx.event=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.stage=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.scene=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.scene.text=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.geom=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.util=com.jfoenix&#13;&#10;--add-exports&#13;&#10;javafx.graphics/com.sun.javafx.scene.traversal=com.jfoenix"/>
+</launchConfiguration>
